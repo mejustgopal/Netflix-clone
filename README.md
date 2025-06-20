@@ -23,13 +23,13 @@ This project is a responsive clone of the Netflix landing page built using **HTM
 
 ## 📸 Preview
 
-![Netflix Clone Preview](assets/images/bg.jpg)
+![Netflix Clone Preview](Assets/images/bg.jpg)
 
 ## 📁 Folder Structure
 
 project-root/
 │
-├── assets/
+├── Assets/
 │ └── images/
 │ └── bg.jpg
 ├── index.html
