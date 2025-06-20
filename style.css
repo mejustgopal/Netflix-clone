@@ -135,7 +135,6 @@ nav button {
     max-width: 70vw;
     margin: auto;
     color: white;
-    justify-content: center;
     align-items: center;
 }
 
@@ -226,8 +225,6 @@ footer .questions {
     color: white;
 }
 
-
-
 @media screen and (max-width: 1300px) {
 
     nav {
@@ -238,10 +235,7 @@ footer .questions {
         flex-wrap: wrap;
     }
 
-    .secImg img {
-        width: 305px;
-    }
-
+    .secImg img,
     .secImg video {
         width: 305px;
     }
@@ -280,18 +274,13 @@ footer .questions {
         align-items: center;
     }
 
-
-}
-
-
-
-@media screen and (max-width: 1300px) {
-
     .footer {
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 25px;
     }
+
+
 }
 
 
