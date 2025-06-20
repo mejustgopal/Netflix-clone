@@ -21,15 +21,13 @@ This project is a responsive clone of the Netflix landing page built using **HTM
 - Responsive Design (Media Queries)
 - Flexbox & Grid Layouts
 
-## 📸 Preview
 
-![Netflix Clone Preview](Assets/images/bg.jpg)
 
 ## 📁 Folder Structure
 
 project-root/
 │
-├── Assets/
+├── assets/
 │ └── images/
 │ └── bg.jpg
 ├── index.html
